@@ -1,0 +1,10 @@
+
+.contentNav{
+    display: flex;
+    background-color: blanchedalmond;
+}
+
+.li{
+    list-style: none;
+}
+
